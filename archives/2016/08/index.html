@@ -71,39 +71,19 @@
             
             <div id="search-form-wrap">
 
-    <form class="search-form">
-        <input type="text" class="ins-search-input search-form-input" placeholder="搜索" />
-        <button type="submit" class="search-form-submit"></button>
-    </form>
-    <div class="ins-search">
-    <div class="ins-search-mask"></div>
-    <div class="ins-search-container">
-        <div class="ins-input-wrapper">
-            <input type="text" class="ins-search-input" placeholder="想要查找什么..." />
-            <span class="ins-close ins-selectable"><i class="fa fa-times-circle"></i></span>
-        </div>
-        <div class="ins-section-wrapper">
-            <div class="ins-section-container"></div>
-        </div>
-    </div>
-</div>
+    <form class="search-form" method="GET" action="https://www.baidu.com/s?">
+    <input name="wd" type="text" class="search-form-input" placeholder="搜索" />
+    <button type="submit" class="search-form-submit"></button>
+</form>
 <script>
-(function (window) {
-    var INSIGHT_CONFIG = {
-        TRANSLATION: {
-            POSTS: '文章',
-            PAGES: '页面',
-            CATEGORIES: '分类',
-            TAGS: '标签',
-            UNTITLED: '(未命名)',
-        },
-        ROOT_URL: '/',
-        CONTENT_URL: '/content.json',
-    };
-    window.INSIGHT_CONFIG = INSIGHT_CONFIG;
-})(window);
+(function ($) {
+    $('.search-form').on('submit', function (e) {
+        var keyword = $('.search-form-input[name="wd"]').val();
+        window.location = 'https://www.baidu.com/s?wd=site: ' + keyword;
+        return false;
+    });
+})(jQuery);
 </script>
-<script src="/js/insight.js"></script>
 
 </div>
         </div>
@@ -124,9 +104,19 @@
                 
                 <td>
                     
-    <div class="search-form">
-        <input type="text" class="ins-search-input search-form-input" placeholder="搜索" />
-    </div>
+    <form class="search-form" method="GET" action="https://www.baidu.com/s?">
+    <input name="wd" type="text" class="search-form-input" placeholder="搜索" />
+    <button type="submit" class="search-form-submit"></button>
+</form>
+<script>
+(function ($) {
+    $('.search-form').on('submit', function (e) {
+        var keyword = $('.search-form-input[name="wd"]').val();
+        window.location = 'https://www.baidu.com/s?wd=site: ' + keyword;
+        return false;
+    });
+})(jQuery);
+</script>
 
                 </td>
             </tr>
@@ -285,7 +275,7 @@
             <ul>
                 
                     <li>
-                        <a href="http://hexo.io">Hexo</a>
+                        <a href="http://wxwx.ml">wxwx.ml</a>
                     </li>
                 
             </ul>
@@ -308,18 +298,17 @@
 </footer>
         
     
-    <script>
-    var disqus_config = function () {
-        
-        this.page.identifier = 'undefined';
-    };
-    (function() { 
-        var d = document, s = d.createElement('script');  
-        s.src = '//' + 'hexo-theme-icarus' + '.disqus.com/count.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
+    <script type="text/javascript">
+    var duoshuoQuery = {short_name:'wxwx-github# enter duoshuo shortname here'};
+    (function() {
+    var ds = document.createElement('script');
+    ds.type = 'text/javascript';ds.async = true;
+    ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+    ds.charset = 'UTF-8';
+    (document.getElementsByTagName('head')[0]
+    || document.getElementsByTagName('body')[0]).appendChild(ds);
     })();
-</script>
+    </script>
 
 
 
