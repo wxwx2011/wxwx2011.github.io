@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>网型网秀</title>
+  <subtitle>Writing 1000 Words a Day Changes My Life</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://wxwx.ml/"/>
+  <updated>2016-08-19T07:42:46.156Z</updated>
+  <id>http://wxwx.ml/</id>
+  
+  <author>
+    <name>网型网秀</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>发个视频测试下，哈哈哈</title>
+    <link href="http://wxwx.ml/2016/08/18/markdown/"/>
+    <id>http://wxwx.ml/2016/08/18/markdown/</id>
+    <published>2016-08-18T13:18:41.000Z</published>
+    <updated>2016-08-19T07:42:46.156Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://blog.zhangruipeng.me/hexo-theme-icarus/gallery/music2.jpg" alt=""><br><a id="more"></a></p>
+<p><center><iframe width="640" style="max-width:100%;" onload="this.height=this.offsetWidth*0.75" src="http://player.youku.com/embed/XMTY1MTQ1Njk3Mg==" frameborder="0" allowfullscreen></iframe></center><br><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">width</span>=<span class="string">640</span> <span class="attr">style</span>=<span class="string">"max-width:100%;"</span> <span class="attr">onload</span>=<span class="string">"this.height=this.offsetWidth*0.75"</span> <span class="attr">src</span>=<span class="string">"http://player.youku.com/embed/XMTY1MTQ1Njk3Mg=="</span> <span class="attr">frameborder</span>=<span class="string">0</span> <span class="attr">allowfullscreen</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></div></pre></td></tr></table></figure></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://blog.zhangruipeng.me/hexo-theme-icarus/gallery/music2.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="未分类1" scheme="http://wxwx.ml/categories/%E6%9C%AA%E5%88%86%E7%B1%BB1/"/>
+    
+    
+      <category term="测试" scheme="http://wxwx.ml/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+      <category term="测试2" scheme="http://wxwx.ml/tags/%E6%B5%8B%E8%AF%952/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://wxwx.ml/2016/08/17/hello-world/"/>
+    <id>http://wxwx.ml/2016/08/17/hello-world/</id>
+    <published>2016-08-17T01:40:24.073Z</published>
+    <updated>2016-08-17T11:03:25.954Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.<br><a id="more"></a></p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
