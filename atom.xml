@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wxwx.ml/"/>
-  <updated>2016-08-19T07:42:46.156Z</updated>
+  <updated>2016-08-19T07:49:54.989Z</updated>
   <id>http://wxwx.ml/</id>
   
   <author>
@@ -14,6 +14,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>help</title>
+    <link href="http://wxwx.ml/2016/08/19/help/"/>
+    <id>http://wxwx.ml/2016/08/19/help/</id>
+    <published>2016-08-19T07:49:17.000Z</published>
+    <updated>2016-08-19T07:49:54.989Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="icarus主题的使用"><a href="#icarus主题的使用" class="headerlink" title="icarus主题的使用"></a>icarus主题的使用</h2><h3 id="初始化"><a href="#初始化" class="headerlink" title="初始化"></a>初始化</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ hexo init &lt;folder&gt;</span><br><span class="line">$ <span class="built_in">cd</span> &lt;folder&gt;</span><br><span class="line">$ npm install</span><br></pre></td></tr></table></figure>
+
+<h3 id="安装主题"><a href="#安装主题" class="headerlink" title="安装主题"></a>安装主题</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git clone <a href="https://github.com/ppoffice/hexo-theme-icarus.git" target="_blank" rel="external">https://github.com/ppoffice/hexo-theme-icarus.git</a> themes/icarus&#10;  Rename    &#10;    &#39;themes\icarus_config.yml.example&#39;&#10;      to    &#10;    &#39;themes\icarus_config.yml&#39; ;&#10;  Copy &#10;    &#39;themes\icarus_config.yml.site.example&#39;&#10;      to    &#10;    your hexo blog&#39;s root directory and rename it &#10;      to &#39;_config.yml&#39; ;&#10;  Then modify &#10;    &#39;theme&#39; &#10;      setting in &#39;_config.yml&#39; &#10;    to &#39;icarus&#39;.</span><br></pre></td></tr></table></figure><br><a id="more"></a><br><br>### 更新<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> themes/icarus  </span><br><span class="line">$ git pull</span><br></pre></td></tr></table></figure>
+
+<h3 id="Categories-amp-Tags-的使用问题"><a href="#Categories-amp-Tags-的使用问题" class="headerlink" title="Categories &amp; Tags 的使用问题"></a>Categories &amp; Tags 的使用问题</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">To <span class="built_in">enable</span> custom categories page and tags page,    </span><br><span class="line">just copy the categories folder and tags folder under your theme<span class="string">‘s _source foler    </span><br><span class="line">into your site’</span>s <span class="built_in">source</span> folder. Then edit theme<span class="string">‘s _config.yml and add the following lines:  </span><br><span class="line"></span><br><span class="line">  # Header  </span><br><span class="line">  menu:  </span><br><span class="line">    <code>&lt;/span&gt;
+&lt;span class=&quot;line&quot;&gt;    Categories: categories # -&amp;gt; add this line  &lt;/span&gt;
+&lt;span class=&quot;line&quot;&gt;    Tags: tags # -&amp;gt; and add this line  &lt;/span&gt;
+&lt;span class=&quot;line&quot;&gt;</code></span></span><br></pre></td></tr></table></figure>
+
+<h3 id="RSS的使用问题"><a href="#RSS的使用问题" class="headerlink" title="RSS的使用问题"></a>RSS的使用问题</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">$ npm install hexo-generator-feed –save</span><br><span class="line"></span><br><span class="line">  In _config.yml:</span><br><span class="line">    <code>&lt;/span&gt;
+&lt;span class=&quot;line&quot;&gt;      plugins:  &lt;/span&gt;
+&lt;span class=&quot;line&quot;&gt;        - hexo-generator-feed&lt;/span&gt;
+&lt;span class=&quot;line&quot;&gt;</code></span><br><span class="line"></span><br><span class="line">  In the theme configuration:</span><br><span class="line"></span><br><span class="line">    <span class="comment"># Header</span></span><br><span class="line">    menu:</span><br><span class="line">      <code>&lt;/span&gt;
+&lt;span class=&quot;line&quot;&gt;      RSS: atom.xml         &amp;lt;&amp;lt;&amp;lt; add&lt;/span&gt;
+&lt;span class=&quot;line&quot;&gt;</code></span><br></pre></td></tr></table></figure>
+
+<h3 id="自定义文章的缩略图"><a href="#自定义文章的缩略图" class="headerlink" title="自定义文章的缩略图"></a>自定义文章的缩略图</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">thumbnail: <a href="http://example.com/thumbnail.jpg" target="_blank" rel="external">http://example.com/thumbnail.jpg</a>   &lt;&lt;&lt; add</span><br><span class="line">banner: <a href="http://example.com/banner.jpg" target="_blank" rel="external">http://example.com/banner.jpg</a>         &lt;&lt;&lt; add</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;icarus主题的使用&quot;&gt;&lt;a href=&quot;#icarus主题的使用&quot; class=&quot;headerlink&quot; title=&quot;icarus主题的使用&quot;&gt;&lt;/a&gt;icarus主题的使用&lt;/h2&gt;&lt;h3 id=&quot;初始化&quot;&gt;&lt;a href=&quot;#初始化&quot; class=&quot;he
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>发个视频测试下，哈哈哈</title>
