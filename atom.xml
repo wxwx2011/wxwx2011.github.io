@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wxwx.ml/"/>
-  <updated>2016-08-19T09:30:11.040Z</updated>
+  <updated>2016-08-19T10:52:16.639Z</updated>
   <id>http://wxwx.ml/</id>
   
   <author>
@@ -20,14 +20,14 @@
     <link href="http://wxwx.ml/2016/08/18/My-New-Post/"/>
     <id>http://wxwx.ml/2016/08/18/My-New-Post/</id>
     <published>2016-08-18T13:18:41.000Z</published>
-    <updated>2016-08-19T09:30:11.040Z</updated>
+    <updated>2016-08-19T10:52:16.639Z</updated>
     
-    <content type="html"><![CDATA[<p><center><iframe width="640" style="max-width:100%;" onload="this.height=this.offsetWidth*0.75" src="http://player.youku.com/embed/XMTY1MTQ1Njk3Mg==" frameborder="0" allowfullscreen></iframe></center><br><a id="more"></a><br><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">width</span>=<span class="string">640</span> <span class="attr">style</span>=<span class="string">"max-width:100%;"</span> <span class="attr">onload</span>=<span class="string">"this.height=this.offsetWidth*0.75"</span> <span class="attr">src</span>=<span class="string">"http://player.youku.com/embed/XMTY1MTQ1Njk3Mg=="</span> <span class="attr">frameborder</span>=<span class="string">0</span> <span class="attr">allowfullscreen</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></div></pre></td></tr></table></figure></p>
+    <content type="html"><![CDATA[<p><center><iframe width="640" style="max-width:100%;" onload="this.height=this.offsetWidth*0.75" src="http://player.youku.com/embed/XMTU1MDc2MTQxMg==" frameborder="0" allowfullscreen></iframe></center><br><a id="more"></a><br><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">width</span>=<span class="string">640</span> <span class="attr">style</span>=<span class="string">"max-width:100%;"</span> <span class="attr">onload</span>=<span class="string">"this.height=this.offsetWidth*0.75"</span> <span class="attr">src</span>=<span class="string">"http://player.youku.com/embed/XMTU1MDc2MTQxMg=="</span> <span class="attr">frameborder</span>=<span class="string">0</span> <span class="attr">allowfullscreen</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></div></pre></td></tr></table></figure></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;center&gt;&lt;iframe width=640 style=&quot;max-width:100%;&quot; onload=&quot;this.height=this.offsetWidth*0.75&quot; src=&quot;http://player.youku.com/embed/XMTY1MTQ1Njk3Mg==&quot; frameborder=0 allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;&lt;br&gt;
+      &lt;p&gt;&lt;center&gt;&lt;iframe width=640 style=&quot;max-width:100%;&quot; onload=&quot;this.height=this.offsetWidth*0.75&quot; src=&quot;http://player.youku.com/embed/XMTU1MDc2MTQxMg==&quot; frameborder=0 allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;&lt;br&gt;
     
     </summary>
     
@@ -43,17 +43,16 @@
     <link href="http://wxwx.ml/2016/08/17/Markdown/"/>
     <id>http://wxwx.ml/2016/08/17/Markdown/</id>
     <published>2016-08-17T08:27:28.000Z</published>
-    <updated>2016-08-19T09:25:28.337Z</updated>
+    <updated>2016-08-19T10:49:36.809Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://blog.zhangruipeng.me/hexo-theme-icarus/gallery/guitarist.jpg" alt=""></p>
-<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>其实我仅仅是想在Github上建立一个博客，因为觉得花钱去买个服务器有点没意思，自己又没好大的用处。<br>但是在这里算是折腾我了，先是研究Github的使用，然后又是Hexo的安装，而现在还要去适应用Markdown写字，我也算是佩服自己的毅力了，居然能将这么复杂的事情坚持下去。<br>话说，对于一个我这么业余的开发者是不是已经够牛B了，哈哈~~~<br><a id="more"></a></p>
-<h3 id="Markdown编辑器"><a href="#Markdown编辑器" class="headerlink" title="Markdown编辑器"></a>Markdown编辑器</h3><hr>
-<iframe width="100%" style="min-height:500px" src="https://www.zybuluo.com/mdeditor" allowfullscreen></iframe>]]></content>
+<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>其实我仅仅是想在Github上建立一个博客，因为觉得花钱去买个服务器有点没意思，自己又没好大的用处。<br>但是在这里算是折腾我了，先是研究Github的使用，然后又是Hexo的安装，而现在还要去适应用<a href="https://www.zybuluo.com/mdeditor" target="_blank" rel="external">Markdown</a>码字，我也算是佩服自己的毅力了，居然能将这么复杂的事情坚持下去。<br>话说，对于一个我这么业余的开发者是不是已经够牛B了，哈哈~~~</p>
+]]></content>
     
     <summary type="html">
     
       &lt;p&gt;&lt;img src=&quot;http://blog.zhangruipeng.me/hexo-theme-icarus/gallery/guitarist.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;心得&quot;&gt;&lt;a href=&quot;#心得&quot; class=&quot;headerlink&quot; title=&quot;心得&quot;&gt;&lt;/a&gt;心得&lt;/h2&gt;&lt;p&gt;其实我仅仅是想在Github上建立一个博客，因为觉得花钱去买个服务器有点没意思，自己又没好大的用处。&lt;br&gt;但是在这里算是折腾我了，先是研究Github的使用，然后又是Hexo的安装，而现在还要去适应用Markdown写字，我也算是佩服自己的毅力了，居然能将这么复杂的事情坚持下去。&lt;br&gt;话说，对于一个我这么业余的开发者是不是已经够牛B了，哈哈~~~&lt;br&gt;
+&lt;h2 id=&quot;心得&quot;&gt;&lt;a href=&quot;#心得&quot; class=&quot;headerlink&quot; t
     
     </summary>
     
