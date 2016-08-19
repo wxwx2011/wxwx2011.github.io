@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wxwx.ml/"/>
-  <updated>2016-08-19T08:10:53.620Z</updated>
+  <updated>2016-08-19T08:34:53.998Z</updated>
   <id>http://wxwx.ml/</id>
   
   <author>
@@ -20,15 +20,14 @@
     <link href="http://wxwx.ml/2016/08/18/markdown/"/>
     <id>http://wxwx.ml/2016/08/18/markdown/</id>
     <published>2016-08-18T13:18:41.000Z</published>
-    <updated>2016-08-19T08:10:53.620Z</updated>
+    <updated>2016-08-19T08:34:53.998Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://blog.zhangruipeng.me/hexo-theme-icarus/gallery/music2.jpg" alt=""><br><a id="more"></a></p>
-<p><center><iframe width="640" style="max-width:100%;" onload="this.height=this.offsetWidth*0.75" src="http://player.youku.com/embed/XMTY1MTQ1Njk3Mg==" frameborder="0" allowfullscreen></iframe></center><br><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">width</span>=<span class="string">640</span> <span class="attr">style</span>=<span class="string">"max-width:100%;"</span> <span class="attr">onload</span>=<span class="string">"this.height=this.offsetWidth*0.75"</span> <span class="attr">src</span>=<span class="string">"http://player.youku.com/embed/XMTY1MTQ1Njk3Mg=="</span> <span class="attr">frameborder</span>=<span class="string">0</span> <span class="attr">allowfullscreen</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></div></pre></td></tr></table></figure></p>
+    <content type="html"><![CDATA[<p><center><iframe width="640" style="max-width:100%;" onload="this.height=this.offsetWidth*0.75" src="http://player.youku.com/embed/XMTY1MTQ1Njk3Mg==" frameborder="0" allowfullscreen></iframe></center><br><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">width</span>=<span class="string">640</span> <span class="attr">style</span>=<span class="string">"max-width:100%;"</span> <span class="attr">onload</span>=<span class="string">"this.height=this.offsetWidth*0.75"</span> <span class="attr">src</span>=<span class="string">"http://player.youku.com/embed/XMTY1MTQ1Njk3Mg=="</span> <span class="attr">frameborder</span>=<span class="string">0</span> <span class="attr">allowfullscreen</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></div></pre></td></tr></table></figure></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://blog.zhangruipeng.me/hexo-theme-icarus/gallery/music2.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;
+      &lt;p&gt;&lt;center&gt;&lt;iframe width=&quot;640&quot; style=&quot;max-width:100%;&quot; onload=&quot;this.height=this.offsetWidth*0.75&quot; src=&quot;http://player.youku.com/embed/XMTY1MT
     
     </summary>
     
