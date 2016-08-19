@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wxwx.ml/"/>
-  <updated>2016-08-19T08:34:53.998Z</updated>
+  <updated>2016-08-19T09:25:30.412Z</updated>
   <id>http://wxwx.ml/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>发个视频测试下，哈哈哈</title>
-    <link href="http://wxwx.ml/2016/08/18/markdown/"/>
-    <id>http://wxwx.ml/2016/08/18/markdown/</id>
+    <link href="http://wxwx.ml/2016/08/18/My-New-Post/"/>
+    <id>http://wxwx.ml/2016/08/18/My-New-Post/</id>
     <published>2016-08-18T13:18:41.000Z</published>
-    <updated>2016-08-19T08:34:53.998Z</updated>
+    <updated>2016-08-19T09:25:30.412Z</updated>
     
     <content type="html"><![CDATA[<p><center><iframe width="640" style="max-width:100%;" onload="this.height=this.offsetWidth*0.75" src="http://player.youku.com/embed/XMTY1MTQ1Njk3Mg==" frameborder="0" allowfullscreen></iframe></center><br><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">width</span>=<span class="string">640</span> <span class="attr">style</span>=<span class="string">"max-width:100%;"</span> <span class="attr">onload</span>=<span class="string">"this.height=this.offsetWidth*0.75"</span> <span class="attr">src</span>=<span class="string">"http://player.youku.com/embed/XMTY1MTQ1Njk3Mg=="</span> <span class="attr">frameborder</span>=<span class="string">0</span> <span class="attr">allowfullscreen</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></div></pre></td></tr></table></figure></p>
 ]]></content>
@@ -31,37 +31,38 @@
     
     </summary>
     
-      <category term="未分类1" scheme="http://wxwx.ml/categories/%E6%9C%AA%E5%88%86%E7%B1%BB1/"/>
+      <category term="Hexo" scheme="http://wxwx.ml/categories/Hexo/"/>
     
     
-      <category term="测试" scheme="http://wxwx.ml/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-      <category term="测试2" scheme="http://wxwx.ml/tags/%E6%B5%8B%E8%AF%952/"/>
+      <category term="Hexo" scheme="http://wxwx.ml/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>用代码写博客，是不是很牛逼的说 —— Markdown</title>
-    <link href="http://wxwx.ml/2016/08/17/My-New-Post/"/>
-    <id>http://wxwx.ml/2016/08/17/My-New-Post/</id>
+    <link href="http://wxwx.ml/2016/08/17/Markdown/"/>
+    <id>http://wxwx.ml/2016/08/17/Markdown/</id>
     <published>2016-08-17T08:27:28.000Z</published>
-    <updated>2016-08-19T08:17:04.775Z</updated>
+    <updated>2016-08-19T09:25:28.337Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://blog.zhangruipeng.me/hexo-theme-icarus/gallery/guitarist.jpg" alt=""></p>
-<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>其实我仅仅是想在Github上建立一个博客，因为觉得花钱去买个服务器有点没意思，自己又没好大的用处。<br>但是在这里算是折腾我了，先是研究Github的使用，然后又是Hexo的安装，而现在还要去适应用Markdown写字，我也算是佩服自己的毅力了，居然能将这么复杂的事情坚持下去。<br>话说，对于一个我这么业余的开发者是不是已经够牛B了，哈哈~~~</p>
-]]></content>
+<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>其实我仅仅是想在Github上建立一个博客，因为觉得花钱去买个服务器有点没意思，自己又没好大的用处。<br>但是在这里算是折腾我了，先是研究Github的使用，然后又是Hexo的安装，而现在还要去适应用Markdown写字，我也算是佩服自己的毅力了，居然能将这么复杂的事情坚持下去。<br>话说，对于一个我这么业余的开发者是不是已经够牛B了，哈哈~~~<br><a id="more"></a></p>
+<h3 id="Markdown编辑器"><a href="#Markdown编辑器" class="headerlink" title="Markdown编辑器"></a>Markdown编辑器</h3><hr>
+<iframe width="100%" style="min-height:500px" src="https://www.zybuluo.com/mdeditor" allowfullscreen></iframe>]]></content>
     
     <summary type="html">
     
       &lt;p&gt;&lt;img src=&quot;http://blog.zhangruipeng.me/hexo-theme-icarus/gallery/guitarist.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;心得&quot;&gt;&lt;a href=&quot;#心得&quot; class=&quot;headerlink&quot; t
+&lt;h2 id=&quot;心得&quot;&gt;&lt;a href=&quot;#心得&quot; class=&quot;headerlink&quot; title=&quot;心得&quot;&gt;&lt;/a&gt;心得&lt;/h2&gt;&lt;p&gt;其实我仅仅是想在Github上建立一个博客，因为觉得花钱去买个服务器有点没意思，自己又没好大的用处。&lt;br&gt;但是在这里算是折腾我了，先是研究Github的使用，然后又是Hexo的安装，而现在还要去适应用Markdown写字，我也算是佩服自己的毅力了，居然能将这么复杂的事情坚持下去。&lt;br&gt;话说，对于一个我这么业余的开发者是不是已经够牛B了，哈哈~~~&lt;br&gt;
     
     </summary>
     
-      <category term="未分类2" scheme="http://wxwx.ml/categories/%E6%9C%AA%E5%88%86%E7%B1%BB2/"/>
+      <category term="Hexo" scheme="http://wxwx.ml/categories/Hexo/"/>
     
     
-      <category term="测试" scheme="http://wxwx.ml/tags/%E6%B5%8B%E8%AF%95/"/>
+      <category term="Hexo" scheme="http://wxwx.ml/tags/Hexo/"/>
+    
+      <category term="Markdown" scheme="http://wxwx.ml/tags/Markdown/"/>
     
   </entry>
   
@@ -70,7 +71,7 @@
     <link href="http://wxwx.ml/2016/08/17/hello-world/"/>
     <id>http://wxwx.ml/2016/08/17/hello-world/</id>
     <published>2016-08-17T01:40:24.073Z</published>
-    <updated>2016-08-17T11:03:25.954Z</updated>
+    <updated>2016-08-19T09:26:00.432Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.<br><a id="more"></a></p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
@@ -88,6 +89,8 @@
       &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
     
     </summary>
+    
+      <category term="Hexo" scheme="http://wxwx.ml/categories/Hexo/"/>
     
     
   </entry>
