@@ -4,30 +4,8 @@
 
     
   <url>
-    <loc>http://wxwx.ml/2016/08/17/Markdown/</loc>
-    <lastmod>2016-08-20T07:00:04.890Z</lastmod>
-    <data>
-        <display>
-        <title>用代码写博客，是不是很牛逼的说 —— Markdown</title>
-        <pubTime>2016-08-17T08:27:28.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-        <tag>Markdown</tag>
-         
-         
-           
-             
-              <breadCrumb title="Hexo" url="http://wxwx.ml/categories/Hexo/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://wxwx.ml/2016/08/20/test/</loc>
-    <lastmod>2016-08-20T06:57:14.319Z</lastmod>
+    <lastmod>2016-08-20T07:08:56.976Z</lastmod>
     <data>
         <display>
         <title>图片优化测试</title>
@@ -42,13 +20,35 @@
     
   <url>
     <loc>http://wxwx.ml/2016/08/18/My-New-Post/</loc>
-    <lastmod>2016-08-19T10:52:16.639Z</lastmod>
+    <lastmod>2016-08-20T07:05:35.361Z</lastmod>
     <data>
         <display>
         <title>发个视频测试下，哈哈哈</title>
         <pubTime>2016-08-18T13:18:41.000Z</pubTime>
         
         <tag>Hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="Hexo" url="http://wxwx.ml/categories/Hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://wxwx.ml/2016/08/17/Markdown/</loc>
+    <lastmod>2016-08-20T07:00:04.890Z</lastmod>
+    <data>
+        <display>
+        <title>用代码写博客，是不是很牛逼的说 —— Markdown</title>
+        <pubTime>2016-08-17T08:27:28.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>Markdown</tag>
          
          
            
