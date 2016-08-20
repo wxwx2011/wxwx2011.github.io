@@ -4,23 +4,8 @@
 
     
   <url>
-    <loc>http://wxwx.ml/2016/08/20/test/</loc>
-    <lastmod>2016-08-20T07:08:56.976Z</lastmod>
-    <data>
-        <display>
-        <title>图片优化测试</title>
-        <pubTime>2016-08-20T05:08:19.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://wxwx.ml/2016/08/18/My-New-Post/</loc>
-    <lastmod>2016-08-20T07:05:35.361Z</lastmod>
+    <lastmod>2016-08-20T07:11:40.814Z</lastmod>
     <data>
         <display>
         <title>发个视频测试下，哈哈哈</title>
@@ -33,6 +18,21 @@
              
               <breadCrumb title="Hexo" url="http://wxwx.ml/categories/Hexo/"/>
           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://wxwx.ml/2016/08/20/test/</loc>
+    <lastmod>2016-08-20T07:08:56.976Z</lastmod>
+    <data>
+        <display>
+        <title>图片优化测试</title>
+        <pubTime>2016-08-20T05:08:19.000Z</pubTime>
+        
+         
+           
         </display>
     </data>
     </url>
