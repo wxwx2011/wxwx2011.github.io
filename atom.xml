@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wxwx.ml/"/>
-  <updated>2016-08-20T06:42:53.865Z</updated>
+  <updated>2016-08-20T06:57:14.319Z</updated>
   <id>http://wxwx.ml/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://wxwx.ml/2016/08/20/test/"/>
     <id>http://wxwx.ml/2016/08/20/test/</id>
     <published>2016-08-20T05:08:19.000Z</published>
-    <updated>2016-08-20T06:42:53.865Z</updated>
+    <updated>2016-08-20T06:57:14.319Z</updated>
     
     <content type="html"><![CDATA[<img title="网型网秀" alt="网型网秀" src="http://7xl62s.com1.z0.glb.clouddn.com/static/images/拓展.jpg?imageView2/2/w/700/h/700/p/100">]]></content>
     
@@ -61,16 +61,14 @@
     <link href="http://wxwx.ml/2016/08/17/Markdown/"/>
     <id>http://wxwx.ml/2016/08/17/Markdown/</id>
     <published>2016-08-17T08:27:28.000Z</published>
-    <updated>2016-08-19T10:49:36.809Z</updated>
+    <updated>2016-08-20T07:00:04.890Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://blog.zhangruipeng.me/hexo-theme-icarus/gallery/guitarist.jpg" alt=""></p>
-<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>其实我仅仅是想在Github上建立一个博客，因为觉得花钱去买个服务器有点没意思，自己又没好大的用处。<br>但是在这里算是折腾我了，先是研究Github的使用，然后又是Hexo的安装，而现在还要去适应用<a href="https://www.zybuluo.com/mdeditor" target="_blank" rel="external">Markdown</a>码字，我也算是佩服自己的毅力了，居然能将这么复杂的事情坚持下去。<br>话说，对于一个我这么业余的开发者是不是已经够牛B了，哈哈~~~</p>
+    <content type="html"><![CDATA[<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>其实我仅仅是想在Github上建立一个博客，因为觉得花钱去买个服务器有点没意思，自己又没好大的用处。<br>但是在这里算是折腾我了，先是研究Github的使用，然后又是Hexo的安装，而现在还要去适应用<a href="https://www.zybuluo.com/mdeditor" target="_blank" rel="external">Markdown</a>码字，我也算是佩服自己的毅力了，居然能将这么复杂的事情坚持下去。<br>话说，对于一个我这么业余的开发者是不是已经够牛B了，哈哈~~~</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://blog.zhangruipeng.me/hexo-theme-icarus/gallery/guitarist.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;心得&quot;&gt;&lt;a href=&quot;#心得&quot; class=&quot;headerlink&quot; t
+      &lt;h2 id=&quot;心得&quot;&gt;&lt;a href=&quot;#心得&quot; class=&quot;headerlink&quot; title=&quot;心得&quot;&gt;&lt;/a&gt;心得&lt;/h2&gt;&lt;p&gt;其实我仅仅是想在Github上建立一个博客，因为觉得花钱去买个服务器有点没意思，自己又没好大的用处。&lt;br&gt;但是在这里算是折腾我了，先是研究
     
     </summary>
     
