@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wxwx.ml/"/>
-  <updated>2016-08-19T10:52:16.639Z</updated>
+  <updated>2016-08-20T05:15:38.354Z</updated>
   <id>http://wxwx.ml/</id>
   
   <author>
@@ -14,6 +14,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>图片优化测试</title>
+    <link href="http://wxwx.ml/2016/08/20/test/"/>
+    <id>http://wxwx.ml/2016/08/20/test/</id>
+    <published>2016-08-20T05:08:19.000Z</published>
+    <updated>2016-08-20T05:15:38.354Z</updated>
+    
+    <content type="html"><![CDATA[<img title="网型网秀" alt="网型网秀" src="http://7xl62s.com1.z0.glb.clouddn.com/static/images/thumb-default-small.png?imageView2/2/w/700/h/700">]]></content>
+    
+    <summary type="html">
+    
+      &lt;img title=&quot;网型网秀&quot; alt=&quot;网型网秀&quot; src=&quot;http://7xl62s.com1.z0.glb.clouddn.com/static/images/thumb-default-small.png?imageView2/2/w/700/h/700&quot;&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>发个视频测试下，哈哈哈</title>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://wxwx.ml/2016/08/20/test/</loc>
+    <lastmod>2016-08-20T05:15:38.354Z</lastmod>
+    <data>
+        <display>
+        <title>图片优化测试</title>
+        <pubTime>2016-08-20T05:08:19.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://wxwx.ml/2016/08/18/My-New-Post/</loc>
+    <lastmod>2016-08-19T10:52:16.639Z</lastmod>
+    <data>
+        <display>
+        <title>发个视频测试下，哈哈哈</title>
+        <pubTime>2016-08-18T13:18:41.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="Hexo" url="http://wxwx.ml/categories/Hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://wxwx.ml/2016/08/17/Markdown/</loc>
+    <lastmod>2016-08-19T10:49:36.809Z</lastmod>
+    <data>
+        <display>
+        <title>用代码写博客，是不是很牛逼的说 —— Markdown</title>
+        <pubTime>2016-08-17T08:27:28.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>Markdown</tag>
+         
+         
+           
+             
+              <breadCrumb title="Hexo" url="http://wxwx.ml/categories/Hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://wxwx.ml/2016/08/17/hello-world/</loc>
+    <lastmod>2016-08-19T09:26:00.432Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2016-08-17T01:40:24.073Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Hexo" url="http://wxwx.ml/categories/Hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+</urlset>
