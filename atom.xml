@@ -64,14 +64,17 @@
     <link href="http://wxwx.ml/2016/08/18/noshow-gf/"/>
     <id>http://wxwx.ml/2016/08/18/noshow-gf/</id>
     <published>2016-08-18T13:18:41.000Z</published>
-    <updated>2016-09-17T03:44:45.182Z</updated>
+    <updated>2016-09-17T03:48:27.166Z</updated>
     
-    <content type="html"><![CDATA[<p><center><iframe width="640" style="max-width:100%;" onload="this.height=this.offsetWidth*0.75" src="http://player.youku.com/embed/XMTU1MDc2MTQxMg==" frameborder="0" allowfullscreen></iframe></center><br><a id="more"></a><br><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">width</span>=<span class="string">640</span> <span class="attr">style</span>=<span class="string">"max-width:100%;"</span> <span class="attr">onload</span>=<span class="string">"this.height=this.offsetWidth*0.75"</span> <span class="attr">src</span>=<span class="string">"http://player.youku.com/embed/XMTU1MDc2MTQxMg=="</span> <span class="attr">frameborder</span>=<span class="string">0</span> <span class="attr">allowfullscreen</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></div></pre></td></tr></table></figure></p>
-]]></content>
+    <content type="html"><![CDATA[<a id="more"></a>
+<center><iframe width="640" style="max-width:100%;" onload="this.height=this.offsetWidth*0.75" src="http://player.youku.com/embed/XMTU1MDc2MTQxMg==" frameborder="0" allowfullscreen></iframe></center>
+
+<figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">width</span>=<span class="string">640</span> <span class="attr">style</span>=<span class="string">"max-width:100%;"</span> <span class="attr">onload</span>=<span class="string">"this.height=this.offsetWidth*0.75"</span> <span class="attr">src</span>=<span class="string">"http://player.youku.com/embed/XMTU1MDc2MTQxMg=="</span> <span class="attr">frameborder</span>=<span class="string">0</span> <span class="attr">allowfullscreen</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></div></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;center&gt;&lt;iframe width=640 style=&quot;max-width:100%;&quot; onload=&quot;this.height=this.offsetWidth*0.75&quot; src=&quot;http://player.youku.com/embed/XMTU1MDc2MTQxMg==&quot; frameborder=0 allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;&lt;br&gt;
+      &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;center&gt;&lt;iframe width=&quot;640&quot; style=&quot;max-width:100%;&quot; onload=&quot;this.height=this.offsetWidth*0.75&quot; src=&quot;http://player.youku.co
     
     </summary>
     
