@@ -44,7 +44,7 @@
     <link href="http://wxwx.ml/2016/08/20/test/"/>
     <id>http://wxwx.ml/2016/08/20/test/</id>
     <published>2016-08-20T05:08:19.000Z</published>
-    <updated>2016-09-17T01:35:47.171Z</updated>
+    <updated>2016-09-17T02:55:42.203Z</updated>
     
     <content type="html"><![CDATA[<img title="网型网秀" alt="网型网秀" src="http://7xl62s.com1.z0.glb.clouddn.com/static/images/拓展.jpg?imageView2/2/w/700/h/700/p/100">]]></content>
     
@@ -62,7 +62,7 @@
     <link href="http://wxwx.ml/2016/08/18/My-New-Post/"/>
     <id>http://wxwx.ml/2016/08/18/My-New-Post/</id>
     <published>2016-08-18T13:18:41.000Z</published>
-    <updated>2016-09-17T01:36:27.646Z</updated>
+    <updated>2016-09-17T02:56:51.098Z</updated>
     
     <content type="html"><![CDATA[<p><center><iframe width="640" style="max-width:100%;" onload="this.height=this.offsetWidth*0.75" src="http://player.youku.com/embed/XMTU1MDc2MTQxMg==" frameborder="0" allowfullscreen></iframe></center><br><a id="more"></a><br><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">width</span>=<span class="string">640</span> <span class="attr">style</span>=<span class="string">"max-width:100%;"</span> <span class="attr">onload</span>=<span class="string">"this.height=this.offsetWidth*0.75"</span> <span class="attr">src</span>=<span class="string">"http://player.youku.com/embed/XMTU1MDc2MTQxMg=="</span> <span class="attr">frameborder</span>=<span class="string">0</span> <span class="attr">allowfullscreen</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></div></pre></td></tr></table></figure></p>
 ]]></content>
@@ -85,7 +85,7 @@
     <link href="http://wxwx.ml/2016/08/17/Markdown/"/>
     <id>http://wxwx.ml/2016/08/17/Markdown/</id>
     <published>2016-08-17T08:27:28.000Z</published>
-    <updated>2016-08-21T09:18:06.873Z</updated>
+    <updated>2016-09-17T02:57:05.717Z</updated>
     
     <content type="html"><![CDATA[<h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>其实我仅仅是想在Github上建立一个博客，因为觉得花钱去买个服务器有点没意思，自己又没好大的用处。<br>但是在这里算是折腾我了，先是研究Github的使用，然后又是Hexo的安装，而现在还要去适应用<a href="https://www.zybuluo.com/mdeditor" target="_blank" rel="external">Markdown</a>码字，我也算是佩服自己的毅力了，居然能将这么复杂的事情坚持下去。<br>话说，对于一个我这么业余的开发者是不是已经够牛B了，哈哈~~~</p>
 ]]></content>
