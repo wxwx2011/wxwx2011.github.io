@@ -4,6 +4,24 @@
 
     
   <url>
+    <loc>http://wxwx.ml/2016/08/20/chrome/</loc>
+    <lastmod>2016-09-17T03:15:59.130Z</lastmod>
+    <data>
+        <display>
+        <title>Chrome浏览器实用拓展推荐</title>
+        <pubTime>2016-08-20T05:08:19.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Chrome" url="http://wxwx.ml/categories/Chrome/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://wxwx.ml/2016/09/17/learn-sublime/</loc>
     <lastmod>2016-09-17T03:11:10.443Z</lastmod>
     <data>
@@ -22,7 +40,7 @@
 
     
   <url>
-    <loc>http://wxwx.ml/2016/08/18/My-New-Post/</loc>
+    <loc>http://wxwx.ml/2016/08/18/noshow-gf/</loc>
     <lastmod>2016-09-17T03:01:37.993Z</lastmod>
     <data>
         <display>
@@ -42,7 +60,7 @@
 
     
   <url>
-    <loc>http://wxwx.ml/2016/08/17/Markdown/</loc>
+    <loc>http://wxwx.ml/2016/08/17/markdown/</loc>
     <lastmod>2016-09-17T02:57:05.717Z</lastmod>
     <data>
         <display>
@@ -58,21 +76,6 @@
              
               <breadCrumb title="Hexo" url="http://wxwx.ml/categories/Hexo/"/>
           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://wxwx.ml/2016/08/20/test/</loc>
-    <lastmod>2016-09-17T02:55:42.203Z</lastmod>
-    <data>
-        <display>
-        <title>Chrome浏览器实用拓展推荐</title>
-        <pubTime>2016-08-20T05:08:19.000Z</pubTime>
-        
-         
-           
         </display>
     </data>
     </url>

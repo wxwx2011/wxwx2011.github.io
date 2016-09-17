@@ -41,10 +41,10 @@
   
   <entry>
     <title>Chrome浏览器实用拓展推荐</title>
-    <link href="http://wxwx.ml/2016/08/20/test/"/>
-    <id>http://wxwx.ml/2016/08/20/test/</id>
+    <link href="http://wxwx.ml/2016/08/20/chrome/"/>
+    <id>http://wxwx.ml/2016/08/20/chrome/</id>
     <published>2016-08-20T05:08:19.000Z</published>
-    <updated>2016-09-17T02:55:42.203Z</updated>
+    <updated>2016-09-17T03:15:59.130Z</updated>
     
     <content type="html"><![CDATA[<img title="网型网秀" alt="网型网秀" src="http://7xl62s.com1.z0.glb.clouddn.com/static/images/拓展.jpg?imageView2/2/w/700/h/700/p/100">]]></content>
     
@@ -54,13 +54,15 @@
     
     </summary>
     
+      <category term="Chrome" scheme="http://wxwx.ml/categories/Chrome/"/>
+    
     
   </entry>
   
   <entry>
     <title>《看不见的女朋友》搞笑微视频</title>
-    <link href="http://wxwx.ml/2016/08/18/My-New-Post/"/>
-    <id>http://wxwx.ml/2016/08/18/My-New-Post/</id>
+    <link href="http://wxwx.ml/2016/08/18/noshow-gf/"/>
+    <id>http://wxwx.ml/2016/08/18/noshow-gf/</id>
     <published>2016-08-18T13:18:41.000Z</published>
     <updated>2016-09-17T03:01:37.993Z</updated>
     
@@ -82,8 +84,8 @@
   
   <entry>
     <title>用代码写博客，是不是很牛逼的说 —— Markdown</title>
-    <link href="http://wxwx.ml/2016/08/17/Markdown/"/>
-    <id>http://wxwx.ml/2016/08/17/Markdown/</id>
+    <link href="http://wxwx.ml/2016/08/17/markdown/"/>
+    <id>http://wxwx.ml/2016/08/17/markdown/</id>
     <published>2016-08-17T08:27:28.000Z</published>
     <updated>2016-09-17T02:57:05.717Z</updated>
     
