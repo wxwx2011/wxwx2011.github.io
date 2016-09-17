@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wxwx.ml/"/>
-  <updated>2016-09-17T03:07:55.332Z</updated>
+  <updated>2016-09-17T03:11:10.443Z</updated>
   <id>http://wxwx.ml/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>开发编辑器由EditPlus转向Sublime Text2</title>
+    <title>开发编辑器由EditPlus转向Sublime Text</title>
     <link href="http://wxwx.ml/2016/09/17/learn-sublime/"/>
     <id>http://wxwx.ml/2016/09/17/learn-sublime/</id>
     <published>2016-09-17T01:34:08.000Z</published>
-    <updated>2016-09-17T03:07:55.332Z</updated>
+    <updated>2016-09-17T03:11:10.443Z</updated>
     
     <content type="html"><![CDATA[<p>为了能早日学会独立开发php网站，实现根据自己需求制定功能，所以忙着学习<code>Thinkphp</code>，而编辑器由原来的<code>EditPlus</code>转向了<code>Sublime Text</code>。EditPlus只适合初学和简单的编辑，对于敲代码的学习者很有帮助，而我要的是快速开发一个项目，不使用快速工具将会花掉很多无谓的时间和精力，所以我选择了具有海量插件的Sublime，经过半个月的学习，已经逐渐掌握了一些快捷方式。准备加快ThinkPHP的学习啦，哈哈！！！<br><a id="more"></a><br><img src="http://7xl62s.com1.z0.glb.clouddn.com/static/images/thinkphp.jpg?imageView2/2/w/700/h/700/p/100"></p>
 <h2 id="常用Emmet热键（每句结束按TAB键）"><a href="#常用Emmet热键（每句结束按TAB键）" class="headerlink" title="常用Emmet热键（每句结束按TAB键）"></a>常用Emmet热键（每句结束按<code>TAB</code>键）</h2><hr>
