@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wxwx.ml/"/>
-  <updated>2016-09-17T09:29:24.461Z</updated>
+  <updated>2016-09-17T09:50:16.943Z</updated>
   <id>http://wxwx.ml/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://wxwx.ml/2016/09/17/learn-sublime/"/>
     <id>http://wxwx.ml/2016/09/17/learn-sublime/</id>
     <published>2016-09-17T01:34:08.000Z</published>
-    <updated>2016-09-17T09:29:24.461Z</updated>
+    <updated>2016-09-17T09:50:16.943Z</updated>
     
     <content type="html"><![CDATA[<p>为了能早日学会独立开发php网站，实现根据自己需求制定功能，所以忙着学习<strong><em>ThinkPHP</em></strong>，而编辑器由原来的<strong><em>EditPlus</em></strong>转向了<strong><em>Sublime Text</em></strong>。EditPlus只适合初学和简单的编辑，对于敲代码的学习者很有帮助，而我要的是快速开发一个项目，不使用快速工具将会花掉很多无谓的时间和精力，所以我选择了具有海量插件的Sublime，经过半个月的学习，已经逐渐掌握了一些快捷方式。准备加快ThinkPHP的学习啦，哈哈！！！<br><a id="more"></a><br><img src="http://7xl62s.com1.z0.glb.clouddn.com/static/images/thinkphp.jpg?imageView2/2/w/900/h/700/p/100"></p>
 <h2 id="常用Emmet热键（每句结束按TAB键）"><a href="#常用Emmet热键（每句结束按TAB键）" class="headerlink" title="常用Emmet热键（每句结束按TAB键）"></a>常用Emmet热键（每句结束按<code>TAB</code>键）</h2><hr>
@@ -44,13 +44,14 @@
     <link href="http://wxwx.ml/2016/08/20/chrome/"/>
     <id>http://wxwx.ml/2016/08/20/chrome/</id>
     <published>2016-08-20T05:08:19.000Z</published>
-    <updated>2016-09-17T03:15:59.130Z</updated>
+    <updated>2016-09-17T09:54:30.081Z</updated>
     
-    <content type="html"><![CDATA[<img title="网型网秀" alt="网型网秀" src="http://7xl62s.com1.z0.glb.clouddn.com/static/images/拓展.jpg?imageView2/2/w/900/h/700/p/100">]]></content>
+    <content type="html"><![CDATA[<p>记录下自己最近常用的一些chrome拓展，特别是Google翻译，用来浏览国外的网站非常方便。不过要想完美体验拓展给你带来的便利，孩子，先学会翻墙吧（比如修改Hosts文件）……<br><a id="more"></a></p>
+<img title="网型网秀" alt="网型网秀" src="http://7xl62s.com1.z0.glb.clouddn.com/static/images/拓展.jpg?imageView2/2/w/900/h/700/p/100">]]></content>
     
     <summary type="html">
     
-      &lt;img title=&quot;网型网秀&quot; alt=&quot;网型网秀&quot; src=&quot;http://7xl62s.com1.z0.glb.clouddn.com/static/images/拓展.jpg?imageView2/2/w/900/h/700/p/100&quot;&gt;
+      &lt;p&gt;记录下自己最近常用的一些chrome拓展，特别是Google翻译，用来浏览国外的网站非常方便。不过要想完美体验拓展给你带来的便利，孩子，先学会翻墙吧（比如修改Hosts文件）……&lt;br&gt;
     
     </summary>
     
