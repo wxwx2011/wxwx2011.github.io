@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wxwx.ml/"/>
-  <updated>2016-09-17T03:33:44.871Z</updated>
+  <updated>2016-09-17T03:39:33.526Z</updated>
   <id>http://wxwx.ml/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://wxwx.ml/2016/09/17/learn-sublime/"/>
     <id>http://wxwx.ml/2016/09/17/learn-sublime/</id>
     <published>2016-09-17T01:34:08.000Z</published>
-    <updated>2016-09-17T03:33:44.871Z</updated>
+    <updated>2016-09-17T03:39:33.526Z</updated>
     
     <content type="html"><![CDATA[<p>为了能早日学会独立开发php网站，实现根据自己需求制定功能，所以忙着学习<code>ThinkPHP</code>，而编辑器由原来的<code>EditPlus</code>转向了<code>Sublime Text</code>。EditPlus只适合初学和简单的编辑，对于敲代码的学习者很有帮助，而我要的是快速开发一个项目，不使用快速工具将会花掉很多无谓的时间和精力，所以我选择了具有海量插件的Sublime，经过半个月的学习，已经逐渐掌握了一些快捷方式。准备加快ThinkPHP的学习啦，哈哈！！！<br><a id="more"></a><br><img src="http://7xl62s.com1.z0.glb.clouddn.com/static/images/thinkphp.jpg?imageView2/2/w/900/h/700/p/100"></p>
 <h2 id="常用Emmet热键（每句结束按TAB键）"><a href="#常用Emmet热键（每句结束按TAB键）" class="headerlink" title="常用Emmet热键（每句结束按TAB键）"></a>常用Emmet热键（每句结束按<code>TAB</code>键）</h2><hr>
@@ -64,7 +64,7 @@
     <link href="http://wxwx.ml/2016/08/18/noshow-gf/"/>
     <id>http://wxwx.ml/2016/08/18/noshow-gf/</id>
     <published>2016-08-18T13:18:41.000Z</published>
-    <updated>2016-09-17T03:01:37.993Z</updated>
+    <updated>2016-09-17T03:38:22.592Z</updated>
     
     <content type="html"><![CDATA[<p><center><iframe width="640" style="max-width:100%;" onload="this.height=this.offsetWidth*0.75" src="http://player.youku.com/embed/XMTU1MDc2MTQxMg==" frameborder="0" allowfullscreen></iframe></center><br><a id="more"></a><br><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">width</span>=<span class="string">640</span> <span class="attr">style</span>=<span class="string">"max-width:100%;"</span> <span class="attr">onload</span>=<span class="string">"this.height=this.offsetWidth*0.75"</span> <span class="attr">src</span>=<span class="string">"http://player.youku.com/embed/XMTU1MDc2MTQxMg=="</span> <span class="attr">frameborder</span>=<span class="string">0</span> <span class="attr">allowfullscreen</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></div></pre></td></tr></table></figure></p>
 ]]></content>
