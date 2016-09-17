@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wxwx.ml/"/>
-  <updated>2016-09-17T03:11:10.443Z</updated>
+  <updated>2016-09-17T03:33:44.871Z</updated>
   <id>http://wxwx.ml/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="http://wxwx.ml/2016/09/17/learn-sublime/"/>
     <id>http://wxwx.ml/2016/09/17/learn-sublime/</id>
     <published>2016-09-17T01:34:08.000Z</published>
-    <updated>2016-09-17T03:11:10.443Z</updated>
+    <updated>2016-09-17T03:33:44.871Z</updated>
     
-    <content type="html"><![CDATA[<p>为了能早日学会独立开发php网站，实现根据自己需求制定功能，所以忙着学习<code>Thinkphp</code>，而编辑器由原来的<code>EditPlus</code>转向了<code>Sublime Text</code>。EditPlus只适合初学和简单的编辑，对于敲代码的学习者很有帮助，而我要的是快速开发一个项目，不使用快速工具将会花掉很多无谓的时间和精力，所以我选择了具有海量插件的Sublime，经过半个月的学习，已经逐渐掌握了一些快捷方式。准备加快ThinkPHP的学习啦，哈哈！！！<br><a id="more"></a><br><img src="http://7xl62s.com1.z0.glb.clouddn.com/static/images/thinkphp.jpg?imageView2/2/w/900/h/700/p/100"></p>
+    <content type="html"><![CDATA[<p>为了能早日学会独立开发php网站，实现根据自己需求制定功能，所以忙着学习<code>ThinkPHP</code>，而编辑器由原来的<code>EditPlus</code>转向了<code>Sublime Text</code>。EditPlus只适合初学和简单的编辑，对于敲代码的学习者很有帮助，而我要的是快速开发一个项目，不使用快速工具将会花掉很多无谓的时间和精力，所以我选择了具有海量插件的Sublime，经过半个月的学习，已经逐渐掌握了一些快捷方式。准备加快ThinkPHP的学习啦，哈哈！！！<br><a id="more"></a><br><img src="http://7xl62s.com1.z0.glb.clouddn.com/static/images/thinkphp.jpg?imageView2/2/w/900/h/700/p/100"></p>
 <h2 id="常用Emmet热键（每句结束按TAB键）"><a href="#常用Emmet热键（每句结束按TAB键）" class="headerlink" title="常用Emmet热键（每句结束按TAB键）"></a>常用Emmet热键（每句结束按<code>TAB</code>键）</h2><hr>
 <h3 id="HTML"><a href="#HTML" class="headerlink" title="HTML"></a>HTML</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">html:5  →  html5 文件模式</div><div class="line">link:css →  插入CSS档案</div><div class="line">div       → &lt;div&gt;&lt;/div&gt;</div><div class="line">.box     →  &lt;div class=&quot;box&quot;&gt;&lt;/div&gt;</div><div class="line">div*2   → &lt;div&gt;&lt;/div&gt; &lt;div&gt;&lt;/div&gt;</div><div class="line">div&gt;p   → &lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</div><div class="line">div+p   → &lt;div&gt;&lt;/div&gt; &lt;p&gt;&lt;/p&gt;</div></pre></td></tr></table></figure>
 <h3 id="HTML-补充"><a href="#HTML-补充" class="headerlink" title="HTML 补充"></a>HTML 补充</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">div&#123;hello&#125;        → &lt;div&gt;hello&lt;/div&gt;</div><div class="line">div[alt=hello]   → &lt;div alt=&quot;hello&quot;&gt;&lt;/div&gt;</div><div class="line">div&gt;lorem       → &lt;div&gt;Lorem ipsum dolor……...&lt;/div&gt;</div><div class="line">div&gt;lorem1      → &lt;div&gt;Lorem&lt;/div&gt;</div><div class="line">(.box&gt;h1)*3     → &lt;div class=&quot;box&quot;&gt;&lt;h1&gt;&lt;/h1&gt;&lt;/div&gt; * 3</div><div class="line">p.box$*2→ &lt;p class=&quot;box1&quot;&gt;&lt;/p&gt; &lt;p class=&quot;box2&quot;&gt;&lt;/p&gt;</div></pre></td></tr></table></figure>
@@ -30,7 +30,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;为了能早日学会独立开发php网站，实现根据自己需求制定功能，所以忙着学习&lt;code&gt;Thinkphp&lt;/code&gt;，而编辑器由原来的&lt;code&gt;EditPlus&lt;/code&gt;转向了&lt;code&gt;Sublime Text&lt;/code&gt;。EditPlus只适合初学和简单的编辑，对于敲代码的学习者很有帮助，而我要的是快速开发一个项目，不使用快速工具将会花掉很多无谓的时间和精力，所以我选择了具有海量插件的Sublime，经过半个月的学习，已经逐渐掌握了一些快捷方式。准备加快ThinkPHP的学习啦，哈哈！！！&lt;br&gt;
+      &lt;p&gt;为了能早日学会独立开发php网站，实现根据自己需求制定功能，所以忙着学习&lt;code&gt;ThinkPHP&lt;/code&gt;，而编辑器由原来的&lt;code&gt;EditPlus&lt;/code&gt;转向了&lt;code&gt;Sublime Text&lt;/code&gt;。EditPlus只适合初学和简单的编辑，对于敲代码的学习者很有帮助，而我要的是快速开发一个项目，不使用快速工具将会花掉很多无谓的时间和精力，所以我选择了具有海量插件的Sublime，经过半个月的学习，已经逐渐掌握了一些快捷方式。准备加快ThinkPHP的学习啦，哈哈！！！&lt;br&gt;
     
     </summary>
     
